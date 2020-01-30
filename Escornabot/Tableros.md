@@ -8,6 +8,8 @@
 
 [Vocales](http://rincondeunamaestra.blogspot.com/2017/11/robotica-y-vocales_21.html)
 
+[Actividades](https://olmedarein7.wixsite.com/roboticainfantil/actividades)
+
 ## Colecciones
 
 [Catedu](https://catedu.gitbooks.io/escornabots/content/material-para-trabajar-en-clase/tableros-y-fichas.html)
