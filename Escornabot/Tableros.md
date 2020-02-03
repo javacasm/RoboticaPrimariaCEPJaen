@@ -19,3 +19,5 @@
 [Documentación Pablo Rubma](https://pablorubma.cc/escornabot/tableros-y-recursos/)
 
 [Coleccion de tableros en la web de escornabot](https://github.com/escornabot/docs/tree/master/Escornabot_Mats)
+
+[Colección de más tableros](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2UIHUY5yT-1Nx49usL2jkSh80sVlJf4mEJuLSGS1DpGWDXXeIRRlq4jXfyY2lRx0c9nIlLeEx4npQ/pubhtml )
