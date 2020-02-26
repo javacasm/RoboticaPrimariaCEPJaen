@@ -51,7 +51,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 ## Contenidos
 
 * [¿Por qué programar?](./contexto.md)
-* Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
+* Presentación de [herramientas de programación visual para los más pequeños: Code.org](./IniciacionProgramacion.md)
 * Introducción a Scratch (y alternativas como [Snap](./snap.md) o [mBlock](./mBlock.md))
 * [Programando con Scratch](./Scratch.md):
   * [Dibujando con Scratch](./Scratch/Scratch.md#vamos-a-dibujar)
