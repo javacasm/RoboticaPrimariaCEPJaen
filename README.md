@@ -53,20 +53,20 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * [¿Por qué programar?](./contexto.md)
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
 * Introducción a Scratch (y alternativas como [Snap](./snap.md) o [mBlock](./mBlock.md))
-* [Programando con Scratch](./Scratch/Scratch.md):
+* [Programando con Scratch](./Scratch.md):
   * [Dibujando con Scratch](./Scratch/Scratch.md#vamos-a-dibujar)
   * [Personajes, disfraces, escenarios](./Scratch/Scratch.md#personaje)
   * [Sonidos y animaciones](./Scratch/Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 * [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
 * ¿[Qué y dónde comprar](./Comprar.md)?
-* Escornabot
+* [Escornabot](./escornabot.md)
     * ¿Qué es y para qué sirve en el aula?
-    * Alternativas
-    * Tapetes educativos
+    * [Alternativas](./RoboticaPrimaria.md)
+    * [Tapetes educativos](./Escornabot/Tableros.md)
     * Apéndice: Montaje y programación
 * Cómo hacer Robótica en educación Primaria
-## [Recursos](./recursos.md)
+## [Recursos](./Recursos.md)
 
 ## [OpenSource](./opensource.md)
 
