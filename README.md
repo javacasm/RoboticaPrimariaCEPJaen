@@ -36,7 +36,7 @@ Para introducir el pensamiento computacional a edades tempranas en curso de educ
 
 ![Escornabot](https://escornabot.com/web/sites/default/files/node_attachs/brivoi_0.jpg)
 
-## Objetivos
+## Objetivos  
 
 El objetivo del curso es presentar estas herramientas sencillas y atractivas para los alumnos como [Code](http://Code.org) y Scratch  (según su edad y conocimientos)
 
