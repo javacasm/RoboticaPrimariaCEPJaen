@@ -4,6 +4,6 @@
 
 [Documentación Pablo Rubma](https://pablorubma.cc/escornabot/)
 
-[Programaci'on de escornabot con bloques](http://www.mecatronicalab.es/programando-escornabot-con-mblock/)
+[Programación de escornabot con bloques](http://www.mecatronicalab.es/programando-escornabot-con-mblock/)
 
 
