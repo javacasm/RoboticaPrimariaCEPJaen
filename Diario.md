@@ -44,6 +44,9 @@ Fondos: Añadir imágenes
 Ejemplo: Movimientos/Geometría/matemáticas
 Extensiones: Dibujar
 
+Interacción: Preguntar/responder
+Ejemplo: Dibujar Polígonos
+
 Ejemplo: Preguntas y respuestas
 
 Extensiones: Text2Speech
