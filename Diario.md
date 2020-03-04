@@ -49,6 +49,9 @@ Ejemplo: Dibujar Polígonos
 
 Ejemplo: Preguntas y respuestas
 
+Diálogo entre personajes
+Ejemplo: diálogos
+
 Extensiones: Text2Speech
 
 # Sesión 3
