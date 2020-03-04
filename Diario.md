@@ -18,11 +18,17 @@ Ejemplo: revisar y modificar "Pasapalabra"
 * Reinventar
 * Guardar
 * Compartir
+* Estudio: grupo de proyectos
+
+Hemos creado un estudio llamado ["Proyectos Scratch CEP de Jaén #RobCEPJaen"](https://scratch.mit.edu/studios/25853008/) donde iremos añadiendo todos los proyectos en los que trabajemos
+
 ## Dentro de un programa Scratch
 * Personajes/bjetos
 ## Tarea
 * Modificar ejemplo "Pasapalabra" para nuestro tema
 * Pensar cómo usarlo en **nuestra clase**
+
+[Proyecto modificado "Pasapalabra"](https://scratch.mit.edu/projects/371362279/)
 
 # Sesión 2
 
