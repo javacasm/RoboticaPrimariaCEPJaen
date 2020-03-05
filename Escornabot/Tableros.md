@@ -2,6 +2,8 @@
 
 ¿Tableros de 10x10 o de 15x15?
 
+[Colección de tableros](https://docs.google.com/spreadsheets/d/e/2PACX-1vT2UIHUY5yT-1Nx49usL2jkSh80sVlJf4mEJuLSGS1DpGWDXXeIRRlq4jXfyY2lRx0c9nIlLeEx4npQ/pubhtml)
+
 [Ejemplo de actividades](https://olmedarein7.wixsite.com/roboticainfantil/actividades)
 
 [Jugar a las parejas](http://apprendiendoconrobotica.blogspot.com/2015/04/parejas-con-bee-bot.html?m=1)
