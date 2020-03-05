@@ -2,7 +2,8 @@
 
 ## CEP de Jaén
 
-## Febrero-Marzo 2020
+## 26 Febrero, 4, 11, 18 y 25 de Marzo 2020
+
 
 ## José Antonio Vacas @javacasm
 
