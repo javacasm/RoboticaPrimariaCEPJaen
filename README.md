@@ -71,6 +71,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 
 ## [OpenSource](./opensource.md)
 
+## [Diario de  clase](./Diario.md)
 
 ## Recursos
 [Robotica educativa con BeeBot](https://catedu.gitbooks.io/robotica-en-infantil-con-bee-bot/content/)
