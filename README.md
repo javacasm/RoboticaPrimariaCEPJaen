@@ -1,4 +1,5 @@
-# Curso de Robótica para Primaria
+# Curso de ROBÓTICA PARA EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA([202318GE167](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/202318GE167/))
+
 ## CEP de Jaén
 
 ## Febrero-Marzo 2020
