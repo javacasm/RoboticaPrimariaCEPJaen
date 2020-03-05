@@ -47,20 +47,38 @@ Añadir audios
 Fondos: Añadir imágenes
 * Editarlas
 
-Ejemplo: Movimientos/Geometría/matemáticas
-Extensiones: Dibujar
-
-Interacción: Preguntar/responder
-Ejemplo: Dibujar Polígonos
-
-Ejemplo: Preguntas y respuestas
-
 Diálogo entre personajes
-Ejemplo: diálogos
+Ejemplo: [diálogos](https://scratch.mit.edu/projects/373453276/)
+
+Movimiento
+Cambio de apariencia: 
+* Disfraces
+* Cambio tamaño
+
+Sincronización con **mensajes**
 
 Extensiones: Text2Speech
 
+Ejemplo: Movimientos/Geometría/matemáticas
+Extensiones: Dibujo
+
+Sentencias de control: repetir N veces
+
+Ejemplo: [Dibujar cuadrado](https://scratch.mit.edu/projects/373483554/)
+
+Generalizamos el dibujo a N lados:
+Concepto de algoritmo
+Definimos variables
+
+Reutilizamos bloques usando la **mochila**
+
+Ejemplo: [Dibujar Polígonos](https://scratch.mit.edu/projects/373492852/)
+
 # Sesión 3
+
+Interacción: Preguntar/responder
+
+Ejemplo: Preguntas y respuestas
 
 Makey-Makey
 
