@@ -30,6 +30,8 @@ Para montar un  laberinto
 
 # Venga, va, me lo construyo
 
+[Piezas impresas](https://www.thingiverse.com/thing:2162130)
+
 [Instrucciones version 1](https://docs.google.com/presentation/d/1turjK-9XJMr4ZNjo0-ty71CvBSDX8ekR_q3EhAwWK2w/edit#slide=id.g44a5bbf06_122)
 
 [Instrucciones versión 2](https://docs.google.com/presentation/d/1wiLGgJkgVf4k_q3OCkZja2lMNZ-3-n-bs_xkO_ioCBY/edit#slide=id.ge69b0fc81_0_413)
